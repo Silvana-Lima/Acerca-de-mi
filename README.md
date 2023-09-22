@@ -6,6 +6,7 @@ Uno de mis pasatiempos favoritos es trabajar en proyectos de programación en mi
 - [Ahorradas](https://github.com/Silvana-Lima/Proyecto-Ahorradas)
 - [Generador de memes](https://github.com/Silvana-Lima/proyecto-editor-de-memes)
 - [ToDo List](https://github.com/Silvana-Lima/TP-ToDoList)
+- [AdaShop](https://github.com/Silvana-Lima/proyecto-final-adaShop)
 
 Estoy siempre buscando oportunidades para aprender y crecer como desarrolladora, así que si tienes algún consejo o sugerencia para mí, ¡no dudes en hacérmelo saber! También estoy abierta a colaboraciones y a trabajar en proyectos interesantes con otros desarrolladores.
 
